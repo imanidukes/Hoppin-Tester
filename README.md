@@ -1,7 +1,7 @@
 # **Testing** for Hoppin' 
 ### All versions are and will be tested for playability in this repository.
 
-*Updates & Patch Notes (Up to date as of **10/22**)*
+*Updates & Patch Notes (Up to date as of **10/24/2025**)*
 
 **Update 1.0**
 
