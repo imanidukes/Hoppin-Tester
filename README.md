@@ -41,6 +41,9 @@ ________________________________________________________________________________
 - Added Information tab with letter to user and survey link
 - Added back buttons to travel back and forth between menu screens
 
+_____________________________________________________________________________________
 
-
-*(Make a scene like a website, can scroll down to see other updates/patches)*
+**Update 4.0**
+- Mobile Edition!
+- Added desktop and mobile pause menus
+- Mobile movement!
