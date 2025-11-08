@@ -47,3 +47,4 @@ ________________________________________________________________________________
 - Mobile Edition!
 - Added desktop and mobile pause menus
 - Mobile movement!
+- Easy and Hard modes selectable buttons with indicators
