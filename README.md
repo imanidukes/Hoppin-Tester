@@ -1,7 +1,7 @@
 # **Testing** for Hoppin' 
 ### All versions are and will be tested for playability in this repository.
 
-*Updates & Patch Notes (Up to date as of **10/24/2025**)*
+*Updates & Patch Notes (Up to date as of **11/7/2025**)*
 
 **Update 1.0**
 
@@ -48,3 +48,14 @@ ________________________________________________________________________________
 - Added desktop and mobile pause menus
 - Mobile movement!
 - Easy and Hard modes selectable buttons with indicators
+
+
+
+
+
+## Fix!
+- Audio on start screen
+  - When pressing the mute button, music doesn't stop unless another screen is accessed and then user can go back and toggle.
+  - Same for level 2.
+- Have platforms on level 3 fit on screen according to screen size
+  - Make sure platforms don't take up the entirety of screen (Width); hinders player from moving forward on level
