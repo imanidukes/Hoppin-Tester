@@ -50,10 +50,7 @@ ________________________________________________________________________________
 - Easy and Hard modes selectable buttons with indicators
 
 
-
-
-
-## Fix!
+## Fixed!
 - Audio on start screen
   - When pressing the mute button, music doesn't stop unless another screen is accessed and then user can go back and toggle.
   - Same for level 2.
