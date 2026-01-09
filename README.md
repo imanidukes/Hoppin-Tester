@@ -48,6 +48,18 @@ ________________________________________________________________________________
 - Added desktop and mobile pause menus
 - Mobile movement!
 - Easy and Hard modes selectable buttons with indicators
+  
+_____________________________________________________________________________________
+
+**Update 5.0**
+- Added level 4
+    - 4 different meals picked at random to collect ingredients from
+        - Easy mode: Only fresh food to collect
+        - Hard mode: Spoiled and fresh food available, don't collect spoiled food (affects freshness score)
+    - Death screen has reason for death
+    - Level complete screen has star rating, freshness rating for meals, best time and current time to complete level
+    - New music!
+
 
 
 ## Fixed!
